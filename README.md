@@ -1,7 +1,7 @@
 ![banner](https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1125&q=80)
 - 👋 Hi, I’m @yeldosmanap
 - 👀 I’m Software Development Engineer
-- 📫 How to reach me ![Linkedin](https://www.linkedin.com/in/yeldos-manap/)
+- 📫 How to reach me ![Linkedin](https://www.linkedin.com/in/yeldos-manap/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # Technical skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
